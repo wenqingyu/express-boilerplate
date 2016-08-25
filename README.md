@@ -1,1 +1,1 @@
-# Skeleton project for Swagger
+# Skeleton for Express ES6 boilerplate
